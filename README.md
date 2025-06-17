@@ -1,1 +1,1 @@
-![akselpekin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akselpekin&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akselpekin&layout=compact&theme=radical)
+![akselpekin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akselpekin&show_icons=true&theme=swift) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akselpekin&layout=compact&lang_count=10&theme=swift)
