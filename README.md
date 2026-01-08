@@ -1,1 +1,2 @@
 ![akselpekin's GitHub stats](https://readmestats.999857.xyz/api?username=akselpekin&show_icons=true&theme=graywhite)
+![Top Languages](https://readmestats.999857.xyz/api/top-langs/?username=akselpekin&layout=compact&theme=graywhite&card_width=495&langs_count=10)
